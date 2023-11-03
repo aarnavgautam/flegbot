@@ -1,0 +1,6 @@
+{
+  "username": "your_username",
+  "password": "your_password",
+  "start_time": "start_time (24 hr format, ex: 14:00)",
+  "end_time": "start_time + 2 hours (ex: 16:00)"
+}
