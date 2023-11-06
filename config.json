@@ -1,6 +1,8 @@
 {
-  "username": "your_username",
-  "password": "your_password",
-  "start_time": "start_time (24 hr format, ex: 14:00)",
-  "end_time": "start_time + 2 hours (ex: 16:00)"
+  "username": "uf username",
+  "password": "uf password",
+  "start_time": "HH:MM 24 HR format",
+  "end_time": "HH:MM 24 HR format (start_time + 2 hrs)",
+  "first_name": "first name",
+  "last_name": "last name"
 }
